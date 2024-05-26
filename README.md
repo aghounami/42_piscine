@@ -85,3 +85,45 @@ This directory contains the exercises for Day 04.
 - **Exercise 06:** [ex06](c04/ex06)
 - **Exercise 07:** [ex07](c04/ex07)
 - **Exercise 08:** [ex08](c
+
+## Day 05 (c05)
+
+This directory contains the exercises for Day 05.
+
+- **Exercise 00:** [ex00](c05/ex00)
+- **Exercise 01:** [ex01](c05/ex01)
+- **Exercise 02:** [ex02](c05/ex02)
+- **Exercise 03:** [ex03](c05/ex03)
+- **Exercise 04:** [ex04](c05/ex04)
+- **Exercise 05:** [ex05](c05/ex05)
+- **Exercise 06:** [ex06](c05/ex06)
+- **Exercise 07:** [ex07](c05/ex07)
+- **Exercise 08:** [ex08](c05/ex08)
+
+## Day 06 (c06)
+
+This directory contains the exercises for Day 06.
+
+- **Exercise 00:** [ex00](c06/ex00)
+- **Exercise 01:** [ex01](c06/ex01)
+- **Exercise 02:** [ex02](c06/ex02)
+- **Exercise 03:** [ex03](c06/ex03)
+- **Exercise 04:** [ex04](c06/ex04)
+- **Exercise 05:** [ex05](c06/ex05)
+- **Exercise 06:** [ex06](c06/ex06)
+- **Exercise 07:** [ex07](c06/ex07)
+- **Exercise 08:** [ex08](c06/ex08)
+
+## Day 07 (c07)
+
+This directory contains the exercises for Day 07.
+
+- **Exercise 00:** [ex00](c07/ex00)
+- **Exercise 01:** [ex01](c07/ex01)
+- **Exercise 02:** [ex02](c07/ex02)
+- **Exercise 03:** [ex03](c07/ex03)
+- **Exercise 04:** [ex04](c07/ex04)
+- **Exercise 05:** [ex05](c07/ex05)
+- **Exercise 06:** [ex06](c07/ex06)
+- **Exercise 07:** [ex07](c07/ex07)
+- **Exercise 08:** [ex08](c07/ex08)
