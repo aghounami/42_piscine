@@ -1,5 +1,4 @@
 # 42_piscine
-# 42 Piscine Repository
 
 Welcome to my 42 Piscine repository! This repository contains all the exercises I have completed during the 42 Piscine program. Each day's exercises are organized into different directories named `c00`, `c01`, etc.
 
